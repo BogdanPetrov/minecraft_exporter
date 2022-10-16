@@ -73,3 +73,9 @@ You should update the [Prometheus configuration file](https://prometheus.io/docs
 ```
 
 to `/etc/prometheus/prometheus.yml` (specify the same port as in the unit file) and reload configuration.
+
+## Grafana Dashboard
+
+You can import a dashboard from [https://grafana.com/grafana/dashboards/17198-minecraft/](https://grafana.com/grafana/dashboards/17198-minecraft/) or by using ID 17198:
+
+![Grafana Dashboard Setup](img/grafana-dashboard-setup.png)
