@@ -76,6 +76,6 @@ to `/etc/prometheus/prometheus.yml` (specify the same port as in the unit file) 
 
 ## Grafana Dashboard
 
-You can import a dashboard from [https://grafana.com/grafana/dashboards/17201-minecraft/](https://grafana.com/grafana/dashboards/17201-minecraft/) or by using ID 17201:
+You can import a dashboard from [https://grafana.com/grafana/dashboards/17201](https://grafana.com/grafana/dashboards/17201) or by using ID 17201:
 
 ![Grafana Dashboard Setup](img/grafana-dashboard-setup.png)
